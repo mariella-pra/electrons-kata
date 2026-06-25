@@ -2,7 +2,7 @@ Electrons Around The Cores - Todo List
 
 1: (x) Return 0 for and empty array
 2: (x) Return expected value for example [1,2,3,4,5] - 6
-3: ( ) Return expected value for example [2,2,3,3] - 4
+3: (x) Return expected value for example [2,2,3,3] - 4
 4: ( ) Return expected value for example [6,6,4,4,1,3] - 2
 5: ( ) Return expected value for example [3,5,3,5,4,2] - 12
 6: ( ) Generalize algorithm for arrays of length 4
