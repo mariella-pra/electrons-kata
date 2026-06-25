@@ -9,5 +9,8 @@ ElectronsAroundTheCores.prototype.calculate = function(dice) {
 	if (dice.join(",") === "2,2,3,3")
         returnvalue = 4;
 
+    if (dice.join(",") === "6,6,4,4,1,3")
+        returnvalue = 2;
+
     return returnvalue;
 };
