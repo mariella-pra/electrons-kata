@@ -30,5 +30,13 @@ describe('Electrons Around The Cores', function() {
 	it('should return 12 for [3,3,5,5]', function() {
     	expect(game.calculate([3,3,5,5])).toEqual(12);
 	});
+
+    it('should return 0 for [1,4,6,2,4]', function() {
+    	expect(game.calculate([1,4,6,2,4])).toEqual(0);
+	});
+
+    it('should return 14 for [3,3,3,5,5]', function() {
+    	expect(game.calculate([3,3,3,5,5])).toEqual(14);
+	});
 });
 
