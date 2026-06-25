@@ -5,7 +5,7 @@ Electrons Around The Cores - Todo List
 3: (x) Return expected value for example [2,2,3,3] - 4
 4: (x) Return expected value for example [6,6,4,4,1,3] - 2
 5: (x) Return expected value for example [3,5,3,5,4,2] - 12
-6: ( ) Generalize algorithm for arrays of length 4
+6: (x) Generalize algorithm for arrays of length 4
 7: ( ) Generalize algorithm for arrays of length 5
 8: ( ) Generalize algorithm for arrays of length 6
 
